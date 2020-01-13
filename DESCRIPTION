@@ -1,0 +1,6 @@
+Package: R2Alation
+Version: 0.0.0
+Imports:
+    dplyr,
+    httr,
+    jsonlite
